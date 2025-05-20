@@ -79,9 +79,7 @@ This project showcases a real-world Excel-based sales dashboard created using th
 **Jamil Ahmad**  
 Open to freelance & entry-level data analytics opportunities.  
 - Email: Jamil.ad611@gmail.com 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jamil611/)
-
+[![LinkedIn](https://img.shields.io/badge/Follow%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil611/)
 ---
 
 ## **License**
