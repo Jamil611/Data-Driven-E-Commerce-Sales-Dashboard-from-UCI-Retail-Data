@@ -82,10 +82,6 @@ Open to freelance & entry-level data analytics opportunities.
 [![Email](https://img.shields.io/badge/Email-jamil.ad611@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamil.ad611@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/Follow%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamil611/)
 
-## Connect with me
-
-[<img src="https://img.shields.io/badge/LinkedIn-jamil611-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/jamil611/)
-[<img src="https://img.shields.io/badge/Email-jamil.ad611@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" height="25">](mailto:jamil.ad611@gmail.com)
 ---
 
 ## **License**
